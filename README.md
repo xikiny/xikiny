@@ -4,7 +4,7 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/xikiny/)
 [![Instagram Badge](https://img.shields.io/badge/-Tiktok-000000?style=flat-square&logo=Tiktok&logoColor=white)](https://www.tiktok.com/@xikiny)
-&nbsp; ![](https://komarev.com/ghpvc/?username=xikiny&label=Views&color=black&style=plastic)
+&nbsp; ![](https://komarev.com/ghpvc/?username=xikiny&label=Views&color=green&style=plastic)
 
 ### Welcome to my Github repository !
 
